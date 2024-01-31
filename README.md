@@ -18,6 +18,7 @@ some other uses: premade libraries of it's own, like wireframe shapes.
 
 #Features
 $Remember: All the features are across the same from React to ASP.NET
+$market_view = "showcasing the stockmarket share, bitcoin prices for investment purpose.";
 
 #Core {Pages}
 
@@ -63,6 +64,3 @@ def Experimental() = {
     let = ['Credit Card','Loans','Banking'
     ,'Mortgages','Insurance','Small Busniess','Personal Finance','Credit Monitoring','Taxes','Help for Low Credit Scores','Investing']
 }
-
-
-showcasing the stockmarket share, bitcoin prices for investment purpose.
